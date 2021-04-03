@@ -22,7 +22,7 @@ Luis Jorge Novelo
     * [Importancia de la visualización de datos](#importancia-de-la-visualización-de-datos)
     * [Tableau y las herramientas de visualización de datos](#tableau-y-las-herramientas-de-visualización-de-datos)
     * [Anatomía e interfaz de Tableau Public](#anatomía-e-interfaz-de-tableau-public)
-    * [Importación de datos: tu primera visualización](#importación-de-datos-tu-primera-visualización
+    * [Importación de datos: tu primera visualización](#importación-de-datos-tu-primera-visualización)
     * [Tu primer dashboard](#tu-primer-dashboard)
     * [Comunidad Tableau](#comunidad-tableau)
     * [Errores comunes al diseñar visualizaciones de datos](#errores-comunes-al-diseñar-visualizaciones-de-datos)
