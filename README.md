@@ -12,6 +12,8 @@
 
 Pon a prueba todas tus habilidades con Tableau para crear dashboards y storyboards interactivos sobre los mejores (¿o peores?) asesinos de Game of Thrones.
 
+[Proyecto: Storyboard peores asesinos de Game of Thrones](https://public.tableau.com/profile/oscar.palomino#!/vizhome/DeathsinGOT_16174206774640/HistoriaGameofThrones)
+
 ## Instructor
 
 Luis Jorge Novelo
